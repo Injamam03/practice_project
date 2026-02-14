@@ -7,6 +7,14 @@ class AppRoute{
 
 
 
+
+
+
+
+
+
+
+                       
   static List<GetPage> route = [
     GetPage(name: splashscreen, page: () => Splashscree()),
 
